@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaGithub, FaLinkedin, FaTwitter, FaInstagram } from 'react-icons/fa';
+import { FaGithub, FaLinkedin,  FaInstagram } from 'react-icons/fa';
 import { motion } from 'framer-motion';
 
 const Footer = () => {

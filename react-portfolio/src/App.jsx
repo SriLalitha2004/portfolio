@@ -1,10 +1,10 @@
-import AboutSection from "./AboutSection";
-import Certifications from "./Certifications";
-import ContactUs from "./ContactUs";
-import Footer from "./Footer";
-import Portfolio from "./Portfolio";
-import SkillsSection from "./SkillsSection";
-import SocialMedia from "./SocialMedia";
+import AboutSection from "./AboutSection.jsx";
+import Certifications from "./Certifications.jsx";
+import ContactUs from "./ContactUs.jsx";
+import Footer from "./Footer.jsx";
+import Portfolio from "./Portfolio.jsx";
+import SkillsSection from "./SkillsSection.jsx";
+import SocialMedia from "./SocialMedia.jsx";
 const App = () => {
   return (
     <div>

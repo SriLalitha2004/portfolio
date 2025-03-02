@@ -18,13 +18,20 @@ const projects = [
     live_link : "https://sriproject2.ccbp.tech/",
   },
 
-
   {
     title: "Todos Application",
     description: "",
     img: "https://media.geeksforgeeks.org/wp-content/uploads/20230606125727/gfg.png",
     github: "https://github.com/SriLalitha2004/Simple-Todo",
     live_link : "https://todosp.ccbp.tech/",
+  },
+
+  {
+    title: "Protein-Food App",
+    description: "",
+    img: "https://media-hosting.imagekit.io//bb8ab077521d4076/Screenshot%202025-02-10%20161314.png?Expires=1833792225&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=1IkMmTbrQVuJ-BWgS88bSLxMUO49Jy7OVlIS1FsuVpnQaBWqVpqQ8U03o-Ig-vzqSM6rjieyjTjbW8H1v-1qVpOgVQA4SHrsGsDtydh1ADLqfem6xC81tk56Mpsw-4HVvXByaT3ehuRwZlVDM7qsWcw0cgOtTEMi5mGfzTa~nRNuM~UmKaL6UVxeGSGEYIoKu7JSL5Y9v39c5Yq57wmJbe4kQV1jgkfh7dyKFDggP8x4r2AQpGhTCTZPMlhKNItCtpx8h5lJCukGGjQP7JoDkiF0Y75f8PtRIlDzmSLK~cZJj32daR-V8rexsETRz46RqRImTbaNTa4dpdqmqUz3qw__",
+    github: "https://github.com/SriLalitha2004/proteinFood.git",
+    live_link : "https://protein-food-6twm.vercel.app/",
   }
 ];
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import myImage from './assets/lalitha pic.jpg'; // Adjust the path as needed
+import myImage from './assets/sri_image.jpg'; // Adjust the path as needed
 import { motion } from "framer-motion";
 
 const AboutSection = () => {
